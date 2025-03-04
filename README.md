@@ -79,6 +79,17 @@ Here are some of the **exciting projects** you'll find in this repository:
 📌 **Project 4**: Flask Web Application - Build and deploy a simple web application using Flask.<br>
 
 ---
+## 🎉 Shoutout to Top Students 🎉
+
+I want to give a **huge shoutout** to my two top-performing students who have excelled throughout the course! Their dedication, hard work, and passion for Python have been truly inspiring. Keep up the great work! 🚀👏
+
+**🏆 Hmaza Nasir** - Exceptional performance in coding challenges and real-world projects!
+
+**🏆 Sufyan** - Outstanding problem-solving skills and creativity in Python development!
+
+Your efforts have not gone unnoticed. Keep pushing boundaries and coding your way to success! 💡🐍
+
+---
 
 ## 🤝 How to Contribute 💡
 
@@ -118,6 +129,7 @@ Have questions or suggestions? Feel free to reach out to me:
 ## 🙏 Acknowledgments ❤️
 
 A big **thank you** to all my **students** and the **open-source community** for their support and contributions. Let's keep learning and coding together! 🚀
+
 
 **Happy Coding!** 🎉
 

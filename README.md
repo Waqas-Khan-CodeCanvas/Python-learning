@@ -1,4 +1,4 @@
-# 🎯 Python Mastery: From Basics to Advanced 🐍
+# 🎯 Python Mastery From Basics to Advanced 🐍
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python) ![Python Version](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge) 
 

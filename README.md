@@ -126,7 +126,7 @@ Have questions or suggestions? Feel free to reach out to me:
 
 ---
 
-## 🙏 Acknowledgments ❤️
+## ❤️ Acknowledgments 
 
 A big **thank you** to all my **students** and the **open-source community** for their support and contributions. Let's keep learning and coding together! 🚀
 

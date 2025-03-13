@@ -1,0 +1,5 @@
+myArray=array.array('i',[1,2,3,4,5,6,7,8,9,10])
+# myArray2=array.array('u',["ali","hamza","ahmed","usman","ali","hamza","ahmed"])
+# print(type(myArray))
+# print(myArray)
+# print(myArray2[0])

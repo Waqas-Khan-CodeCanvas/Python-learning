@@ -1,0 +1,9 @@
+OOPs -> object oriented programming 
+
+
+overview -> 
+ 1 :- procedural programming
+ 2 :- functional programming
+ 3 :- object oriented programming
+
+ 

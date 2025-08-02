@@ -1,0 +1,33 @@
+
+python 
+ 
+   -> procedural programming 
+   -> functional programming
+   -> OOPs -> object orieted programming 
+
+    -> class   ---- blueprint 
+    -> objects   ----- instance
+
+    -> Account  
+    1:- user name 
+    2 :- age
+    3 :- email
+
+
+    -> attributes
+    -> methods
+
+   -> object 
+   -> def
+    An Object is an instance of a Class. It represents a specific implementation of the class and holds its own data.
+
+   -> constructor
+   -> def 
+      constructor is a special method that is called automatically when an object is created from a class to set the intitail values of attributes for the obj
+
+   -> Abstraction 
+   -> def
+
+
+   -> Encapsulation
+   -> def   

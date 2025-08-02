@@ -1,0 +1,6 @@
+nt(firstNode.data)      
+# print(firstNode.ref)
+# print(firstNode)
+# print(list.head)      
+# print(list.head.data)      
+# print(list.head.ref.data) 
